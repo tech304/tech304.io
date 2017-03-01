@@ -1,0 +1,92 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@import "mixins";
+
+$background-color: #002551;
+$highlight-color: #EAAA00;
+$body-text-color: #fff;
+$body-text-size: 22px;
+$link-color: $highlight-color;
+$link-hover-color: lighten($link-color,10%);
+$border-color: darken($background-color,30%);
+$footer-text-size: .9em;
+
+@charset "utf-8";
+
+body {
+  background: $background-color;
+  color: $body-text-color;
+  font-family: 'Roboto', sans-serif;
+  font-size: $body-text-size;
+  line-height: 1.35em;
+  text-align: center;
+}
+
+a, a img {
+  color: $link-color;
+  text-decoration: underline;
+  &:hover {
+    color: $link-hover-color;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+  }
+}
+
+a img.slack {
+  width:60px;
+  margin-bottom:-3px;
+  color: $link-color;
+}
+
+header {
+  margin-bottom: -40px;
+}
+
+header .site-title {
+  color: $body-text-color;
+  font-size: 5em;
+  font-weight: bold;
+  line-height: 1em;
+  text-decoration: none;
+}
+
+section, footer {
+  width: 600px;
+  margin: auto;
+  text-align: left;
+}
+
+/**
+ * The main info
+ */
+.description {
+  letter-spacing: 1px;
+  line-height: 1.3em;
+}
+
+/**
+ * Footer Section
+ */
+ footer {
+  border-top:1px solid $border-color;
+  margin:2em auto;
+  p {
+    font-size: .9em;
+    line-height: 1.35em;
+  }
+  ul {
+    list-style: none;
+  }
+  li {
+    font-size: .85em;
+  }
+  .footer-nav {
+    border-top:1px solid $border-color;
+    margin-top:1em;
+    padding:1em 0;
+    a {
+      font-size: .7em;
+    }
+  }
+}
