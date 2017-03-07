@@ -13,6 +13,6 @@ layout: default
 
     <p>We talk about the technologies we use, our successes and failures, job opportunities, and other random nonsense.</p>
 
-    <h2><a href="https://tech304.slack.com/shared_invite/MTQxOTk5OTg3ODMxLTE0ODcwODcyNjMtYmNkODViZTQ2Yg">Join Us!</a></h2>
+    <h2><a href="/slack/">Join us!</a></h2>
   </div>
 </section>
