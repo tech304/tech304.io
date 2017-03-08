@@ -17,7 +17,7 @@ layout: default
     <li>Be considerate, kind, constructive, and helpful.</li>
     <li>Avoid demeaning, discriminatory, harassing, hateful, or physically threatening behavior, speech, and imagery.</li>
     <li>If you’re not sure, ask someone instead of assuming. No, really. Just ask the administrators. We’d rather hear from you than hear about something you said or did after the fact, and we are here to help.</li>
-    <li>Don’t be a bystander. Role model respectful behaviour, but also help to address disrespect when you see it.</li>
+    <li>Don’t be a bystander. Role model respectful behavior, but also help to address disrespect when you see it.</li>
   </ul>
 
   <h2>Resolve peacefully</h2>
@@ -26,7 +26,7 @@ layout: default
 
   <p>If you see someone behaving disrespectfully, we urge you to respectfully dissuade them from such behavior. Expect that others in the community wish to help keep the community respectful, and welcome your input in doing so.</p>
 
-  <p>If you experience disrespectful behavior toward yourself or anyone else and feel in any way unable or unwilling to respond or resolve it respectfully (for any reason), please immediately bring it to the attention of an administrator/moderator. We want to hear from you about anything that you feel is disrespectful, threatening, or just something that could make someone feel distressed in any way. We will listen and work to resolve the matter.</p>
+  <p>If you experience disrespectful behavior toward yourself or anyone else and feel in any way unable or unwilling to respond or resolve it respectfully (for any reason), please immediately bring it to the attention of an administrator. We want to hear from you about anything that you feel is disrespectful, threatening, or just something that could make someone feel distressed in any way. We will listen and work to resolve the matter.</p>
 
   <h2>Apologize for mistakes</h2>
 
@@ -38,7 +38,7 @@ layout: default
 
   <p>Participants asked to stop any harassing behavior are expected to comply immediately. We do not tolerate harassment of participants in any form.</p>
 
-  <p>If you are being harassed, notice that someone else is being harassed, or have any other concerns, please notify an <a href="/moderators/">administrator/moderator</a> immediately, or via <a href="mailto:tech304@intarwebs.com">email</a>.</p>
+  <p>If you are being harassed, notice that someone else is being harassed, or have any other concerns, please notify an <a href="/admins/">administrator</a> immediately, or via <a href="mailto:tech304@intarwebs.com">email</a>.</p>
 
   <h2>Consequences</h2>
 
@@ -54,7 +54,7 @@ layout: default
     <li>Mitigate or remediate conflict as appropriate.</li>
     <li>Monitor the public channels for inappropriate behavior.</li>
     <li>Have rights in the system tied to the admin role.</li>
-    <li>Set adhoc policy to resolve immediate disputes.</li>
+    <li>Set ad hoc policy to resolve immediate disputes.</li>
     <li>Close discussion of meta-items.</li>
   </ul>
 

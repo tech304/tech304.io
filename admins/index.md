@@ -2,7 +2,7 @@
 layout: default
 ---
 <section>
-<h2>The current moderators are:</h2>
+<h2>The current admins are:</h2>
 <ul>
   {% for admin in site.data.admins %}
   {% if admin.twitter %}
