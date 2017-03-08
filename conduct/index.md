@@ -48,7 +48,7 @@ layout: default
 
   <h2>Role of Administrators</h2>
 
-  <p>Our community is focused on individual remdiation of conflict, as outlined above. If one on one conflict resolution is not possible our administrators will step in.</p>
+  <p>Our community is focused on individual remediation of conflict, as outlined above. If one on one conflict resolution is not possible our administrators will step in.</p>
 
   <ul>
     <li>Mitigate or remediate conflict as appropriate.</li>
