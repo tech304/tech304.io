@@ -18,8 +18,8 @@ email: tech304@intarwebs.com
 description: > # this means to ignore newlines until "baseurl:"
   tech304 a community of tech & web professionals, mentors, students, and enthusiasts in West Virginia.
 baseurl: "" # the subpath of your site, e.g. /blog
-#url: "http://tech304.io" # the base hostname & protocol for your site, e.g. http://example.com
-url: "http://0.0.0.0:4000"
+url: "http://tech304.io" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "http://0.0.0.0:4000"
 twitter_username: 304tech
 github_username:  tech304
 

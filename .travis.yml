@@ -1,7 +1,7 @@
 language: ruby
 rvm:
-    - 2.1.1
-install: gem install jekyll -v 3.4.0 && gem install s3_website
+    - 2.4.0
+install: gem install jekyll -v 3.4.1 && gem install s3_website
 script: jekyll build
 after_success: s3_website push
 s3_id: <%= ENV['S3_ACCESS_KEY_ID'] %>
