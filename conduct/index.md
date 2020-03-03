@@ -38,7 +38,7 @@ layout: default
 
   <p>Participants asked to stop any harassing behavior are expected to comply immediately. We do not tolerate harassment of participants in any form.</p>
 
-  <p>If you are being harassed, notice that someone else is being harassed, or have any other concerns, please notify an <a href="/admins/">administrator</a> immediately, or via <a href="mailto:tech304@intarwebs.com">email</a>.</p>
+  <p>If you are being harassed, notice that someone else is being harassed, or have any other concerns, please notify an <a href="/admins/">administrator</a> immediately, or via <a href="mailto:hello@tech304.io">email</a>.</p>
 
   <h2>Consequences</h2>
 
