@@ -1,8 +1,15 @@
 - name: Will Foreman
+  handle: wfore
   email:
-  website: http://www.willmforeman.com/
   twitter:
+  website: http://www.willmforeman.com/
 - name: Jesse Heady
-  email: 
-  website:
+  handle: jheady
+  email:
   twitter: jheady
+  website:
+- name: Darin Markus
+  handle: darin.markus
+  email:
+  twitter:
+  website: https://www.linkedin.com/in/darinmarkus/

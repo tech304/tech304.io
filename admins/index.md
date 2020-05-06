@@ -7,11 +7,11 @@ layout: default
   {% for admin in site.data.admins %}
       {% if admin.website %}
       <li>
-        <a href="{{ admin.website }}">{{ admin.name }}</a>
+        <a href="{{ admin.website }}">{{ admin.name }}</a> {% if admin.handle %}({{admin.handle}}){% endif %}
       </li>
       {% elsif admin.twitter %}
       <li>
-        <a href="https://twitter.com/{{ admin.twitter }}">{{ admin.name }}</a>
+        <a href="https://twitter.com/{{ admin.twitter }}">{{ admin.name }}</a> {% if admin.handle %}({{admin.handle}}){% endif %}
       </li>
       {% endif %}
   {% endfor %}
